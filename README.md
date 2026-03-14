@@ -1,1 +1,1 @@
-# third_project_3
+Developed an E-commerce Sales Dashboard using Microsoft Power BI based on a dataset containing 50,000 rows of transactional data. The project involved data cleaning, transformation, and modeling to analyze key business metrics such as total revenue, order volume, customer trends, and product performance. Interactive visualizations, filters, and slicers were used to present insights on sales trends, top-selling categories, regional performance, and customer behavior, enabling data-driven decision-making.
